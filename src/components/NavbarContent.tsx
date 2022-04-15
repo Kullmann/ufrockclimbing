@@ -1,5 +1,3 @@
-function NavbarContent() {
+function NavbarContent() {}
 
-}
-
-export default NavbarContent;
+export default NavbarContent
