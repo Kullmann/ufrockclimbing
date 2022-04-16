@@ -78,7 +78,7 @@ function ContactForm() {
                   name="firstName"
                   required
                   label="First Name"
-                  placeholder="John"
+                  placeholder="Magnus"
                   {...form.getInputProps("firstName")}
                 />
 
@@ -86,7 +86,7 @@ function ContactForm() {
                   name="lastName"
                   required
                   label="Last Name"
-                  placeholder="Smith"
+                  placeholder="Meatball"
                   {...form.getInputProps("lastName")}
                 />
               </Group>
@@ -95,13 +95,13 @@ function ContactForm() {
                 name="email"
                 required
                 label="Email"
-                placeholder="johnsmith@email.com"
+                placeholder="magnusmeatball@gmail.com"
                 {...form.getInputProps("email")}
               />
 
               <Textarea
                 name="message"
-                placeholder="I love rock climbing"
+                placeholder="Have you seen Free Solo?"
                 label="Message"
                 required
                 {...form.getInputProps("message")}

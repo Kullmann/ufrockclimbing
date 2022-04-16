@@ -1,4 +1,5 @@
 import { Text, Group, Title, MediaQuery } from "@mantine/core"
+import { Routes, Route, Link } from "react-router-dom"
 import ContactForm from "./ContactForm"
 
 function HeaderContent() {
@@ -11,11 +12,11 @@ function HeaderContent() {
 
       <MediaQuery smallerThan="xs" styles={{ display: "none" }}>
         <Group position="right">
-          <Text variant="link" component="a" href="#">
+          <Text variant="link" component="a" href="/">
             About
           </Text>
 
-          <Text variant="link" component="a" href="#">
+          <Text variant="link" component="a" href="/officers">
             Officers
           </Text>
 

@@ -2,6 +2,8 @@ import { AppShell, Header, Footer } from "@mantine/core"
 import HeaderContent from "./HeaderContent"
 import FooterContent from "./FooterContent"
 import BodyContent from "./BodyContent"
+import { Route, Routes } from "react-router-dom"
+import Officers from "./Officers"
 
 function Layout() {
   return (
@@ -37,7 +39,12 @@ function Layout() {
         </Footer>
       }
     >
-      {<BodyContent />}
+      {
+      <Routes>
+        <Route path="/" element={<BodyContent />} />
+        <Route path="/officers" element={<Officers />} />
+      </Routes>
+      }
     </AppShell>
   )
 }
