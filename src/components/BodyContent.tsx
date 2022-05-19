@@ -9,7 +9,7 @@ function BodyContent() {
         <Image
           // style={{ display: 'flex', marginLeft: 'auto', marginRight: 'auto', width: '50%' }}
           radius="md"
-          src="https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-6/215435897_1630717847123605_1045119515317379046_n.png?stp=dst-jpg_p480x480&_nc_cat=101&ccb=1-5&_nc_sid=8631f5&_nc_ohc=aXqN5xf1bTMAX-ttpPW&tn=T3utIPM-iYI7Ytlv&_nc_ht=scontent-atl3-1.xx&oh=00_AT-MbtpZ2RqDNtlZOfana_QqsldXr775lxEmk_omMeKKRg&oe=625D8015"
+          src="https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-6/215435897_1630717847123605_1045119515317379046_n.png?stp=dst-jpg&_nc_cat=101&ccb=1-7&_nc_sid=8631f5&_nc_ohc=riw01DMW43AAX9vBueb&_nc_ht=scontent-atl3-1.xx&oh=00_AT9xr7I1M6mpIXOcLkxxb1piqJ9qtUTRDD8gZkkdQZPNbA&oe=628AFBD5"
           alt="Florida Rock Climbing Club Banner"
           height={"100%"}
           width={"100%"}

@@ -8,24 +8,11 @@ function Officers() {
       <Grid.Col span={4}>
         <Card style={{backgroundColor: "#F8F9FA"}} shadow="md">
           <Card.Section>
-            <Image src="https://www.climbingbusinessjournal.com/wp-content/uploads/Butora-new-markless-rental-shoe-Habara-DoubleToe.jpg" height={160} />
+            <Image src="https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460__480.png" height={160} />
           </Card.Section>
 
           <Card.Section>
             <Text align="center"><b>President</b></Text>
-            <Text align="center">Arden O'Neil</Text>
-          </Card.Section>
-        </Card>
-      </Grid.Col>
-
-      <Grid.Col span={4}>
-        <Card style={{backgroundColor: "#F8F9FA"}} shadow="md">
-          <Card.Section>
-            <Image src="https://www.climbingbusinessjournal.com/wp-content/uploads/Butora-new-markless-rental-shoe-Habara-DoubleToe.jpg" height={160} />
-          </Card.Section>
-
-          <Card.Section>
-            <Text align="center"><b>Vice President</b></Text>
             <Text align="center">Ben Ryder</Text>
           </Card.Section>
         </Card>
@@ -34,12 +21,12 @@ function Officers() {
       <Grid.Col span={4}>
         <Card style={{backgroundColor: "#F8F9FA"}} shadow="md">
           <Card.Section>
-            <Image src="https://www.climbingbusinessjournal.com/wp-content/uploads/Butora-new-markless-rental-shoe-Habara-DoubleToe.jpg" height={160} />
+            <Image src="https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460__480.png" height={160} />
           </Card.Section>
 
           <Card.Section>
-            <Text align="center"><b>Treasurer</b></Text>
-            <Text align="center">Patrick Moorhead</Text>
+            <Text align="center"><b>Vice President</b></Text>
+            <Text align="center">Toni Earle-Randell</Text>
           </Card.Section>
         </Card>
       </Grid.Col>
@@ -47,7 +34,20 @@ function Officers() {
       <Grid.Col span={4}>
         <Card style={{backgroundColor: "#F8F9FA"}} shadow="md">
           <Card.Section>
-            <Image src="https://preview.redd.it/8e6rxur3xf431.jpg?auto=webp&s=b3122a1756b29b56114cae3e0a41b60a44fa8b4a" height={"100%"} />
+            <Image src="https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460__480.png" height={"100%"} />
+          </Card.Section>
+
+          <Card.Section>
+            <Text align="center"><b>Treasurer</b></Text>
+            <Text align="center">Rachel Orr</Text>
+          </Card.Section>
+        </Card>
+      </Grid.Col>
+
+      <Grid.Col span={4}>
+        <Card style={{backgroundColor: "#F8F9FA"}} shadow="md">
+          <Card.Section>
+            <Image src="https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460__480.png" height={"100%"} />
           </Card.Section>
 
           <Card.Section>
